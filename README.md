@@ -1,1 +1,1 @@
-[capa]!(images/capa.png)
+![capa](images/capa.png)

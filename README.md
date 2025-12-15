@@ -1,2 +1,2 @@
-![capa](images/capa.png)
+![projeto](images/hub_em_numeros.png)
 ***

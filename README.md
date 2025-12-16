@@ -1,4 +1,4 @@
-![projeto](images/hub_em_num.png)
+![projeto](images/hub_em_numeros.png)
 ***
 
 <p align="center">
